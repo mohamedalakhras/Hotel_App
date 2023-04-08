@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80297323203",
+    "project_id": "serene-art-351105",
+    "storage_bucket": "serene-art-351105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80297323203:android:da302e60d322aa7a625076",
+        "android_client_info": {
+          "package_name": "com.example.hotelproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80297323203-mm2onhvng75890do26n789b7pqc9f1nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhPJ4X8r3ESCQ57-mSgpVNusFlSC5cB1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80297323203-mm2onhvng75890do26n789b7pqc9f1nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
